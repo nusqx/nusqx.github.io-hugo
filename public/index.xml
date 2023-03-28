@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Huabing Blog</title>
+    <title>NUS QX BLOG</title>
     <link>https://nusqx.github.io/</link>
-    <description>Recent content on Huabing Blog</description>
+    <description>Recent content on NUS QX BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 17:33:12 +0800</lastBuildDate><atom:link href="https://nusqx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nusqx.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Happyday</title>
-      <link>https://nusqx.github.io/life/happyday/</link>
-      <pubDate>Tue, 28 Mar 2023 17:33:12 +0800</pubDate>
+      <title>Hello world</title>
+      <link>https://nusqx.github.io/post/hello-world/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nusqx.github.io/life/happyday/</guid>
-      <description>Hello World First blog </description>
+      <guid>https://nusqx.github.io/post/hello-world/</guid>
+      <description>Hello World SQX </description>
     </item>
     
     <item>
@@ -308,6 +308,19 @@ export HTTPS_PROXY=&amp;#34;http://127.0.0.1:3128/&amp;#34;
       
       <guid>https://nusqx.github.io/archive/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://nusqx.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusqx.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
     </item>
     
   </channel>
