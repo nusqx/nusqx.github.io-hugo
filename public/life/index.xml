@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lives on Huabing Blog</title>
+    <link>https://nusqx.github.io/life/</link>
+    <description>Recent content in Lives on Huabing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2023 17:33:12 +0800</lastBuildDate><atom:link href="https://nusqx.github.io/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happyday</title>
+      <link>https://nusqx.github.io/life/happyday/</link>
+      <pubDate>Tue, 28 Mar 2023 17:33:12 +0800</pubDate>
+      
+      <guid>https://nusqx.github.io/life/happyday/</guid>
+      <description>Hello World First blog </description>
+    </item>
+    
+  </channel>
+</rss>
